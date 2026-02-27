@@ -15,6 +15,7 @@
 		<Metadata name="Catalog.Имущество.Form.ФормаЭлемента" id="70ffb560-7024-4cdf-be83-0c817eb7640f" configVersion="69696597583e5b4cbc7f42b93b040a9900000000"/>
 		<Metadata name="Catalog.Имущество.Form.ФормаЭлемента.Form" id="70ffb560-7024-4cdf-be83-0c817eb7640f.0" configVersion="0856993fb64f144d948c7192abb3c20900000000"/>
 		<Metadata name="Catalog.КатегорияИмущества" id="f9435b6b-a67c-4919-8d72-521feb8a43c6" configVersion="59cb5776844aea4a8faeb168fa25ccdd00000000"/>
+		<Metadata name="Catalog.МАиумиу" id="fa4d0ceb-ba71-4d5c-a3ac-55b668687299" configVersion="ae561c10b1cd7849a308281f5010252a00000000"/>
 		<Metadata name="Catalog.МестаХранения" id="cd8abad7-1099-47ff-8a52-c7669df771ba" configVersion="4d4b0a7b1f7d384cb4aaa5182feeac1f00000000">
 			<Metadata name="Catalog.МестаХранения.Attribute.ОтветственноеЛицо" id="db748ec3-de13-4ff8-a0b2-ce3a6c9c4573"/>
 		</Metadata>
@@ -23,7 +24,7 @@
 		<Metadata name="CommonModule.ИнвентаризацияСервер.Module" id="b02bec71-32e2-407c-a4ea-47c3f9b01a74.0" configVersion="0527006cc0952d45a12bee286804b43200000000"/>
 		<Metadata name="CommonPicture.ОбщаяКартинка1" id="06642e9b-c545-4123-8bf3-9f021b761db3" configVersion="4a36ddfebbe914449aacb1770cd1916f00000000"/>
 		<Metadata name="CommonPicture.ОбщаяКартинка1.Picture" id="06642e9b-c545-4123-8bf3-9f021b761db3.0" configVersion="2c7fc0ff93919348bc291ae59ad86d7700000000"/>
-		<Metadata name="Configuration.Конфигурация" id="f0db9b36-665b-4103-9d90-b77333f403c8" configVersion="fe6a29084c17b34f8c45c59704305ecc00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="f0db9b36-665b-4103-9d90-b77333f403c8" configVersion="d8d39ed6e540df43ab81b9e9df9d76a700000000"/>
 		<Metadata name="Document.ПеремещениеИмущества" id="d6c6bf13-78cb-4454-8fd6-cdc2d1e5b23a" configVersion="d49cab88755a3242bf560f46144cca0800000000">
 			<Metadata name="Document.ПеремещениеИмущества.TabularSection.Состав.Attribute.Количество" id="070ca991-e745-4104-b2b4-92fe25eeb39e"/>
 			<Metadata name="Document.ПеремещениеИмущества.Attribute.МОЛПолучатель" id="13bf72f4-3d57-43e3-8b28-6ada46cfa272"/>

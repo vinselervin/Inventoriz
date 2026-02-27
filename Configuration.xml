@@ -251,6 +251,7 @@
 			<Catalog>МестаХранения</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>КатегорияИмущества</Catalog>
+			<Catalog>МАиумиу</Catalog>
 			<Document>ПоступлениеИмущества</Document>
 			<Document>ПеремещениеИмущества</Document>
 			<Document>СписаниеИмущества</Document>
