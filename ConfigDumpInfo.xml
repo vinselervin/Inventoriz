@@ -15,7 +15,6 @@
 		<Metadata name="Catalog.Имущество.Form.ФормаЭлемента" id="70ffb560-7024-4cdf-be83-0c817eb7640f" configVersion="69696597583e5b4cbc7f42b93b040a9900000000"/>
 		<Metadata name="Catalog.Имущество.Form.ФормаЭлемента.Form" id="70ffb560-7024-4cdf-be83-0c817eb7640f.0" configVersion="0856993fb64f144d948c7192abb3c20900000000"/>
 		<Metadata name="Catalog.КатегорияИмущества" id="f9435b6b-a67c-4919-8d72-521feb8a43c6" configVersion="59cb5776844aea4a8faeb168fa25ccdd00000000"/>
-		<Metadata name="Catalog.МАиумиу" id="fa4d0ceb-ba71-4d5c-a3ac-55b668687299" configVersion="ae561c10b1cd7849a308281f5010252a00000000"/>
 		<Metadata name="Catalog.МестаХранения" id="cd8abad7-1099-47ff-8a52-c7669df771ba" configVersion="4d4b0a7b1f7d384cb4aaa5182feeac1f00000000">
 			<Metadata name="Catalog.МестаХранения.Attribute.ОтветственноеЛицо" id="db748ec3-de13-4ff8-a0b2-ce3a6c9c4573"/>
 		</Metadata>
